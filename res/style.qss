@@ -1,0 +1,8 @@
+* {
+    background: #50598a;
+}
+
+.ComponentTile {
+    border-radius: 5px;
+    background: #9374ad;
+}
