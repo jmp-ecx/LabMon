@@ -9,7 +9,7 @@ class ComponentTile(QFrame):
 
     self.setObjectName('ComponentTile')
 
-    self.setMinimumSize(150, 150)
+    self.setMinimumSize(169, 256)
 
     self.port: port = NULL
     self.name: str  = name
